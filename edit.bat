@@ -1,0 +1,1 @@
+code . .\platforms\android\build\intermediates\assets\debug\www\js

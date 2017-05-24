@@ -1,0 +1,16 @@
+{
+  "name": "cspot2",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "A135631",
+  "contributors": [],
+  "dependencies": {
+    "jsftp": "^1.5.5"
+  }
+}
